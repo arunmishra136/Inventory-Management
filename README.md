@@ -2,6 +2,8 @@
 
 A full-stack inventory management application with two roles — **Producer** (manage products and stock) and **User** (browse products and place orders).
 
+**Live Demo:** [https://inventory-management-arun.netlify.app](https://inventory-management-arun.netlify.app)
+
 ## Screenshots
 
 ### Role Selection
